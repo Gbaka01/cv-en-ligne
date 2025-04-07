@@ -15,7 +15,7 @@ h1, h2{
 
 .bgimg-1{
     background-image: url("https://picsum.photos/2000/2000?random=1");
-    min-height: 100%;
+    min-height: 100vh;
 }
 
 .bgimg-2 {
