@@ -119,11 +119,7 @@ a.inner-link {
 
 
 
-.header {
-    background-color: rgb(0,0,0,0.7) !important;
-    padding: 2em 4em;
-    width: 100%;
-}
+
 
 .navbar-nav {
     display: flex;
